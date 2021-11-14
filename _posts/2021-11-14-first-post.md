@@ -1,7 +1,8 @@
 ---
+layout: post
 title: "How i setup this page"
-category: misc
-permalink: /:category/:title
+categories: misc
+permalink: /:categories/:title
 ---
 
 

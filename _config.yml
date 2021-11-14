@@ -56,7 +56,7 @@ minima:
 theme: minima
 
 # default permalink setup
-permalink: /:category/:title/
+permalink: /:categories/:title/
 
 plugins:
  - jekyll-feed
