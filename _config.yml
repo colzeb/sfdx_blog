@@ -1,6 +1,6 @@
 title: itspankaj
-author: Pankaj Kumar
-  name: hi.p
+author:
+  name: Pankaj Kumar
   email: hi.p@outlook.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
