@@ -3,6 +3,7 @@ layout: post
 title: "How i setup this page"
 categories: misc
 permalink: /:categories/:title
+author: Pankaj Kumar
 ---
 
 
