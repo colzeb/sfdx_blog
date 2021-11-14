@@ -1,6 +1,7 @@
 ---
 title: "How i setup this page"
 category: misc
+permalink: /:category/:title
 ---
 
 
