@@ -3,7 +3,6 @@ title: "How i setup this page"
 category: misc
 ---
 
-# Welcome to first blog page 
 
 ### How i setup this page?
 1. create a repo on github
