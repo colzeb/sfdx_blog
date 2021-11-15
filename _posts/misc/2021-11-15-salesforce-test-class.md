@@ -5,7 +5,7 @@ by automating your acceptance senario.
 
 ### Lets start salesforce test
 
-ˋ@IsTest
+@IsTest
 public class TestAccountTrigger{
 
     @IsTest
@@ -22,4 +22,4 @@ public class TestAccountTrigger{
         system.assertEqual(actual.createddate.addYear(1), acutal.renew__c );
     }
 }
-ˋ
+
